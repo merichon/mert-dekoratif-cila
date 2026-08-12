@@ -1,0 +1,21 @@
+{
+  "name": "mert-dekoratif-cila",
+  "version": "1.0.0",
+  "description": "Mert Dekoratif Cila Atölyesi - Lake Cila & Mobilya Boyama",
+  "main": "app.js",
+  "scripts": {
+    "dev": "python3 server.py",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "dekoratif",
+    "cila",
+    "mobilya",
+    "lake"
+  ],
+  "author": "Mert Dekoratif Cila Atölyesi",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
