@@ -23,6 +23,8 @@ Handler.extensions_map.update({
     '.html': 'text/html; charset=utf-8',
     '.jpg': 'image/jpeg',
     '.png': 'image/png',
+    '.ico': 'image/x-icon',
+    '.webmanifest': 'application/manifest+json',
 })
 
 print(f"Serving Mert Lake Cila on http://localhost:{PORT} with explicit text/css MIME type...")
